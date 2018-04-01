@@ -1,0 +1,5 @@
+#!ruby
+
+require 'each_ruby'
+
+EachRuby.run(ARGV.first)
